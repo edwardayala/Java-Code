@@ -1,0 +1,65 @@
+Collection of Java assignments from CSC - 2340: Object-Oriented Programming
+
+## Files:
+
+ - **Alien**: BigDecimal example
+	 - Demonstration of how large decimal values can be displayed.
+	 - Demonstration of Geometric Series.
+	 - [GitHub Link](https://github.com/edwardayala/Java-Code/blob/master/Alien.java)
+- **ClassInterfaceAssignment**:  Class Keywords & Interfaces
+	- Use of *extends* keyword
+	- Use of *implements* keyword
+	- Use of class *Interface* and *abstract* methods
+	- [GitHub Link](https://github.com/edwardayala/Java-Code/tree/master/ClassInterfaceAssignment_Edward_Ayala)
+- **Game of Life**: Conway's Game of Life
+	- Java implementation of Game of Life
+	- [More Info](https://edwardayala.me/GameOfLife)
+ - **ImageProc**: Java Image Processing
+	 - Performs image manipulations.
+	 - [More Info](https://edwardayala.me/ImageProcessing)
+ - **Image Processing**: Proof of concept
+	 - C++
+	 - Proof of concept for pixel value manipulation.
+	 - [GitHub Link](https://github.com/edwardayala/Java-Code/blob/master/ImageProcessing.cpp)
+- **Image Processing**: Proof of concept
+	- Java
+	- Proof of concept for pixel value manipulation.
+	- [GitHub Link](https://github.com/edwardayala/Java-Code/blob/master/ImageProcessing.java)
+- **Line**: Object collision
+	- C++
+	- Determines if two objects are touching/within eachother.
+	- [GitHub Link](https://github.com/edwardayala/Java-Code/blob/master/Line.cpp)
+- **Lines**: Object collision
+	- Java
+	- Determines if two objects are touching/within eachother.
+	- [GitHub Link](https://github.com/edwardayala/Java-Code/blob/master/Lines.java)
+- **MyArrayList**: Demonstration of ArrayList and List
+	- Contains ArrayList operations:
+		- Remove duplicates
+		- Find max
+		- Union
+		- Print
+	- [GitHub Link](https://github.com/edwardayala/Java-Code/blob/master/MyArrayList.java)
+-  **Student Tracking System**: Demonstration of Class relationships
+	- Person class - Contains properties of a *Person*
+	- Student class - Contains properties of a *Student*
+	- CollegeStudent class - Contains properties of a *College Student*
+	- University class - Contains properties of a *University*
+	- StudentTrackingSystem class - Driver program
+	- Classes have Parent-Child relationships and are used to organize students within a university.
+	- [GitHub Link](https://github.com/edwardayala/Java-Code/tree/master/Edward_Ayala_Student_Tracking_System)
+- **Triangle**: Advanced Object collision/manipulation
+	- Triangle object - uses Line and Point objects
+		- Get perimeter
+		- Get area
+		- Determine if Triangle contains another Triangle
+		- Determine if Triangle overlaps another Triangle
+	- Line object - uses Point object
+		- Determine if Line contains another Line
+		- Determine if Line intersects another Line
+	- Point object - used to represent points of a triangle
+		- Get distance between two Points
+	- [GitHub Link](https://github.com/edwardayala/Java-Code/blob/master/Triangle.java)
+- **WebCrawler**: Java web crawler
+	- Java Program which crawls a specified URL and finds occurrences of a specific word
+	- [GitHub Link](https://github.com/edwardayala/Java-Code/blob/master/WebCrawler.java)
